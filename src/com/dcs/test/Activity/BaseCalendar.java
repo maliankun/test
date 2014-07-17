@@ -45,6 +45,8 @@ public class BaseCalendar extends Activity implements OnTouchListener {
 	private static final int SWIPE_THRESHOLD_VELOCITY = 200;
 
 	// 动画
+	
+	
 	private Animation slideLeftIn;
 	private Animation slideLeftOut;
 	private Animation slideRightIn;
